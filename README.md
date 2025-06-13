@@ -53,6 +53,8 @@ The **Employee** role allows employees to manage personal information, monitor a
 
 ---
 
--hioo
+If you are interested in this app, please contact me below:
+
+email : hioov1mail@gmail.com
 instagram : @hioov.1
 
